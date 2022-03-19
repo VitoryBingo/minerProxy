@@ -42,7 +42,7 @@ At this point, the code + server is ready, and you can start mining happily.
 - The template has been prepared for everyone in advance, just replace it with your own wallet address
 - Parameter Description
 
-![参数说明.png](https://bcn.135editor.com/files/users/1169/11697638/202203/6jLBrL4c_JgJv.png "参数说明.jpg" )
+![Params Guide.png](https://github.com/VitoryBingo/babyProxy/blob/main/z-rules.png "Params Guide.jpg" )
 
 - F2pool：f2pool-6688.sh
 - Poolin：poolin-1883.sh
