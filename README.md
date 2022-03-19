@@ -1,8 +1,8 @@
-## ✨  BabyProxy ✨  · ETH Pool Charge Commission、Mining Pool Redirect，One key build private mining pool
+## ✨  minerProxy ✨  · ETH Pool Charge Commission、Mining Pool Redirect，One key build private mining pool
 
 ![minerProxy.PNGZz](https://bcn.135editor.com/files/users/1169/11697638/202203/Og7B9gZC_M93k.jpg "参数说明.jpg" )
 
-- ✔ New resource code move here， Old repo was deleted：rgerd/babyProxy
+- ✔ New resource code move here， Old repo was deleted：rgerd/minerProxy
 - ⚡ Use for Mining Pool Proxy、Redirect、Pool Charge Commission
 
 ### Linux Server Deploy Guide
@@ -30,19 +30,19 @@ echo "DefaultLimitNPROC=102400" >>/etc/systemd/user.conf
 ### ✌Step 2：Clone github resource Code
 ```bash
 # Clone code to your server
-git clone https://github.com/babyProxy/babyProxy.git
+git clone https://github.com/VitoryBingo/minerProxy.git
 # go in 
-cd babyProxy
+cd minerProxy
 # Grant program execution permission
-chmod +x babyProxy
+chmod +x minerProxy
 ```
 At this point, the code + server is ready, and you can start mining happily.
 
-### 👌Step 3：Enable babyProxy mining pool forwarding
+### 👌Step 3：Enable minerProxy mining pool forwarding
 - The template has been prepared for everyone in advance, just replace it with your own wallet address
 - Parameter Description
 
-![Params Guide.png](https://github.com/VitoryBingo/babyProxy/blob/main/z-rules.png "Params Guide.jpg" )
+![Params Guide.png](https://github.com/VitoryBingo/minerProxy/blob/main/z-rules.png "Params Guide.jpg" )
 
 - F2pool：f2pool-6688.sh
 - Poolin：poolin-1883.sh
